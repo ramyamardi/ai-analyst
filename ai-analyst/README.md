@@ -115,7 +115,7 @@ Built during a Data Analyst internship working with 50,000+ records, 3 Power BI 
 
 ## 📬 Connect
 
-Made by **Ramya** · [LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
+Made by **Ramya** · [LinkedIn](www.linkedin.com/in/ramya-mardi) · [GitHub](https://github.com/ramyashree)
 
 ⭐ Found this useful? Star the repo — it helps a lot!
 
